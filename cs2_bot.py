@@ -10,7 +10,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, WebAppI
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 
 BOT_TOKEN  = "8540959951:AAF74mmGYh_62wy42EQqGW0OH0lDWjoU54A"   # <-- o'zgartiring
-WEBAPP_URL = "YOUR_WEBAPP_URL_HERE"  # <-- o'zgartiring (GitHub Pages / Vercel)
+WEBAPP_URL = "https://github.com/Futikss/Cs2.git"  # <-- o'zgartiring (GitHub Pages / Vercel)
 
 DB_FILE = "users.json"
 
